@@ -1,0 +1,4 @@
+2022-09-05 10:46:03,027  INFO [main] Test_Admin_Page:69 - Actual result : Enabled
+2022-09-05 10:46:03,032  INFO [main] Test_Admin_Page:71 - Expected result : Enabled
+2022-09-09 00:08:31,379  INFO [TestNG-test=Test-1] Test_Admin_Page:72 - Actual result : Enabled
+2022-09-09 00:08:31,399  INFO [TestNG-test=Test-1] Test_Admin_Page:74 - Expected result : Enabled

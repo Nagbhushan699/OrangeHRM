@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.orangehrm.qa.tests.Test_Admin_Page">
+        <methods>
+          <include name="setup"/>
+          <include name="after"/>
+          <include name="afterMethod"/>
+          <include name="before"/>
+          <include name="testUsername"/>
+          <include name="testUser_Role"/>
+          <include name="testEmpname"/>
+        </methods>
+      </class> <!-- com.orangehrm.qa.tests.Test_Admin_Page -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
